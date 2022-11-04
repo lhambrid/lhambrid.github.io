@@ -5,9 +5,9 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #d9d8d0;
   position: relative;
-  background: #FFF;
+  background: #525359;
 }
 p {
   line-height: 1.5;
@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #727aad;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -257,7 +257,7 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  background: #727aad;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
