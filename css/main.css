@@ -15,7 +15,7 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #3cff00;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #0328fc;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #9105ef;
 }
 img::selection {
   color: white;
@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #f10eb5;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -261,6 +261,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
+  color: white
 }
 
 footer a {
@@ -318,7 +319,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: red;
 }
 
 .post-preview .post-title {
@@ -382,7 +383,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: orange;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -585,8 +586,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: yellow;
+  border: 1px solid green;
 }
 
 .pager {
